@@ -4,6 +4,8 @@
 https://bit.ly/TechOmkarYoutubeChannel
 
 This repo is regarding source code for FRONTEND WEB DEVELOPMENT BOOTCAMP 2023 on YouTube channel TechOmkar.
+ 
+[Get access to playlist](https://t.ly/TechOmkar)
 
 
 
@@ -16,9 +18,10 @@ This repo is regarding source code for FRONTEND WEB DEVELOPMENT BOOTCAMP 2023 on
 - BOOTSTRAP
 - TAILWIND CSS
 - JAVASCRIPT
++ +PORTFOLIO PROJECT
 
 
 
 
-![App Screenshot](https://www.techomkar.tk/assets/img/Introduction%20to%20web%20developement%20course.jpg)
+![App Screenshot](https://www.techomkar.tk/assets/img/Introduction%20to%20web%20developement%20course.png)
 
